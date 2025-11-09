@@ -1,4 +1,4 @@
-# AppScan sacn trigger test
+# Triggered appsan test
 import os
 import pymysql
 from urllib.request import urlopen
